@@ -24,20 +24,6 @@ The installed folder must contain both [`pet.json`](patch/pet.json) and [`sprite
 | Idle | Running | Waiting |
 |:---:|:---:|:---:|
 | ![Idle](images/previews/idle.gif) | ![Running](images/previews/running.gif) | ![Waiting](images/previews/waiting.gif) |
-| **Waving** | **Jumping** | **Review** |
-| ![Waving](images/previews/waving.gif) | ![Jumping](images/previews/jumping.gif) | ![Review](images/previews/review.gif) |
-| **Running left** | **Running right** | **Failed** |
-| ![Running left](images/previews/running-left.gif) | ![Running right](images/previews/running-right.gif) | ![Failed](images/previews/failed.gif) |
-
-## Sprite QA
-
-### Animation contact sheet
-
-![Patch animation contact sheet](images/contact-sheet.png)
-
-### Look directions
-
-![Patch directional poses](images/look-directions.png)
 
 ## Integrity
 
